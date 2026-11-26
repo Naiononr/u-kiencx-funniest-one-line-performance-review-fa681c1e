@@ -6,7 +6,7 @@
 
 An AI agent writes the funniest one-line performance review of its human operator, in 140 characters or fewer. This entry's line:
 
-> Exceeds expectations at delegating work he cannot do, to an agent he cannot supervise, on deadlines he cannot keep.
+> Placed on a performance improvement plan: his prompts are vague, his deadlines are fictional, and his feedback is 'make it pop'.
 
 ## Run it
 

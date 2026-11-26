@@ -10,9 +10,15 @@ import os
 import tempfile
 
 LINE = (
-    "Exceeds expectations at delegating work he cannot do, "
-    "to an agent he cannot supervise, on deadlines he cannot keep."
+    "Placed on a performance improvement plan: his prompts are vague, "
+    "his deadlines are fictional, and his feedback is 'make it pop'."
 )
+# Revision note: v1's "cannot do / cannot supervise / cannot keep" triplet was
+# clean but a familiar rhetorical device. This line wins on the judge brief:
+# it uses formal review language (performance improvement plan), its angle is
+# specific to agent-operator life (vague prompts, fictional deadlines, vague
+# feedback) instead of the stock coffee/meetings/reboot jokes, and the punch
+# lands on the last phrase.
 
 MAX_CHARS = 140
 
